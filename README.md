@@ -61,3 +61,8 @@ Xem [trạng thái nghiệm thu](docs/ACCEPTANCE.md) để phân biệt source �
 
 Dữ liệu mẫu dùng ảnh công khai từ Unsplash (`images.unsplash.com`); URL từng ảnh nằm trong script seed.
 App có placeholder khi chưa chọn ảnh hoặc ảnh mạng không tải được.
+
+## Sườn kiến trúc dự án
+
+Xem chi tiết sườn kiến trúc và các module tại [Sườn kiến trúc dự án (SangHuynh)](docs/ARCHITECTURE_SKELETON.md).
+
